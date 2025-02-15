@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fiksikiweb</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="Fistachka" repo="fiksikidva"/>
   <readme>
     <ru>cc0477f6925607d103810af19738ea7f2b4844449dfdb9bf3881a405d6ae0fc1</ru>
@@ -32,12 +32,12 @@
     <tonalities>1</tonalities>
     <video name="2t.mp4" size="873808" type="video/mp4" volume="0.5">cd3b67f3a4220207e20fdf520f3325e08cd05fb3a7596ae70cfa7590070cf565</video>
     <notes>
-      <note number="1" values="38" ticks="153" durationTicks="88" ppq="192" velocity="0.782"/>
-      <note number="2" values="38" ticks="251" durationTicks="86" ppq="192" velocity="0.867"/>
-      <note number="3" values="38" ticks="348" durationTicks="83" ppq="192" velocity="0.777"/>
-      <note number="4" values="48" ticks="442" durationTicks="92" ppq="192" velocity="0.839"/>
-      <note number="5" values="38" ticks="538" durationTicks="94" ppq="192" velocity="0.767"/>
-      <note number="6" values="28" ticks="632" durationTicks="136" ppq="192" velocity="0.904"/>
+      <note number="1" values="38" ticks="121" durationTicks="88" ppq="192" velocity="0.782"/>
+      <note number="2" values="38" ticks="219" durationTicks="86" ppq="192" velocity="0.867"/>
+      <note number="3" values="38" ticks="316" durationTicks="83" ppq="192" velocity="0.777"/>
+      <note number="4" values="48" ticks="410" durationTicks="92" ppq="192" velocity="0.839"/>
+      <note number="5" values="38" ticks="506" durationTicks="94" ppq="192" velocity="0.767"/>
+      <note number="6" values="28" ticks="600" durationTicks="136" ppq="192" velocity="0.904"/>
     </notes>
   </exercise>
   <exercise number="3">
